@@ -1,0 +1,12 @@
+name: Web-Dev-App
+title: Web-Dev-App
+username: stesiam
+account: stesiam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11995101
+bundleId: 8611331
+url: https://stesiam.shinyapps.io/Web-Dev-App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

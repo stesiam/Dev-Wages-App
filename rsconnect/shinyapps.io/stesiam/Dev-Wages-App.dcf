@@ -1,0 +1,13 @@
+name: Dev-Wages-App
+title: Dev-Wages-App
+username:
+account: stesiam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11995257
+bundleId: 8611427
+url: https://stesiam.shinyapps.io/Dev-Wages-App/
+when: 1715637202.46767
+lastSyncTime: 1715637202.46769
+asMultiple: FALSE
+asStatic: FALSE

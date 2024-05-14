@@ -4,7 +4,7 @@
 
 A Web App to predict the expected annual wage based on data provided by Greek Developers. It is built using [Shiny for R](https://shiny.posit.co/).
 
-
 <hr>
-📦 **DockerHub Repo**: [dev-wages-app](https://hub.docker.com/r/stesiam/dev-wages-app)
+
+📦 **DockerHub Repo**: [dev-wages-app](https://hub.docker.com/r/stesiam/dev-wages-app) <br>
 💾 **Data Source**: [Social Nerds](https://www.youtube.com/channel/UCd5jW000te6bExqYth4TIxQ)
